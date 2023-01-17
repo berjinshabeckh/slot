@@ -118,7 +118,7 @@ Execute the program
 ``` 
 
 # OUPUT
-![OUTPUT](http://berjin.student.saveetha.in:8000/static/images/timetab.png?raw=true)
+![OUTPUT](http://berjin.student.saveetha.in:8000/static/images/timtab.png?raw=true)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://berjin.student.saveetha.in:8000/static/images/vali.png?raw=true)
